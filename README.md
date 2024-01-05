@@ -31,11 +31,11 @@ The Crime Prediction Project aims to predict the type of crime based on user inp
 3. Open your web browser and navigate to `http://localhost:8501`.
 
 ## Screenshots
-![Screenshot 1](/images/screenshot1.png) ![Screenshot 2](/images/screenshot2.png)
+<div style="display:flex;">
+<img src="images/predciting_img.png" alt="Screenshot 1" width="500"/>
+<img src="images/final_pred.png" alt="Screenshot 2" width="500"/>
+</div>
 
-## Future Enhancements
-
-List potential future enhancements or features that you plan to implement.
 
 
 
